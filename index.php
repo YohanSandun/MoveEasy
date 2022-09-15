@@ -7,6 +7,12 @@
     <title>MoveEasy</title>
 </head>
 <body>
-    
+    <ol>
+        <li>yohan</li>
+        <li>dhanu</li>
+        <li>akeela</li>
+        <li>nisal</li>
+        <li>jenitta</li>
+    </ol>
 </body>
 </html>

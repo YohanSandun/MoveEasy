@@ -7,6 +7,7 @@
     <title>MoveEasy</title>
 </head>
 <body>
+    <!--practice GitHub-->
     
 </body>
 </html>

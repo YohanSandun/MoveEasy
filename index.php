@@ -8,7 +8,6 @@
     <title>MoveEasy</title>
 </head>
 <body>
-    <h1>Hello World</h1>
-    <p>what next?</p>    
+    <h1>Hello World</h1>   
 </body>
 </html>

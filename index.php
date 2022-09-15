@@ -7,6 +7,10 @@
     <title>MoveEasy</title>
 </head>
 <body>
+    <ol>
+        <li>Another list</li>
+        <li>drgdfgdfg</li>
+    </ol>
     <!--practice GitHub-->
 
    <h1> Group Members </h1>

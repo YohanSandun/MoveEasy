@@ -9,7 +9,7 @@
 <body>
     <!--practice GitHub-->
 
-    Group Members
+   <h1> Group Members </h1>
     <ol>
         <li>Yohan</li>
         <li>Nishal</li>

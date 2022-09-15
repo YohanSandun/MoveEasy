@@ -7,6 +7,11 @@
     <title>MoveEasy</title>
 </head>
 <body>
-    
+    <ol>
+        <li> Dhunna</li>
+        <li>Tanji</li>
+        <li>sili</li>
+        <li>appu</li>
+    </ol>    
 </body>
 </html>

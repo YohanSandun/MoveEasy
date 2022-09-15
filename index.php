@@ -7,20 +7,6 @@
     <title>MoveEasy</title>
 </head>
 <body>
-    <ol>
-        <li>Another list</li>
-        <li>drgdfgdfg</li>
-    </ol>
-    <!--practice GitHub-->
-
-   <h1> Group Members </h1>
-    <ol>
-        <li>Yohan</li>
-        <li>Nishal</li>
-        <li>Dhanushika</li>
-        <li>Akeela</li>
-        <li>Jenitta</li>
-    </ol>
     
 </body>
 </html>

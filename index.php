@@ -24,5 +24,41 @@
             </div>
         </div>
     </nav>
+    <div class="container">
+        <div></div>
+        <div class="user-form">
+            <h1>Find a Route</h1>
+            <br>
+            <p>hello guys there is a <b>danger</b></p>
+            <p>hello guys there is a <strong>danger</strong></p>
+            <form action="route.php" method="post" autocomplete="off">
+                <table>
+                    <tr>
+                        <td class="autocomplete"><h3 class="label">Start Location</h3></td>
+                    </tr>
+                    <tr>
+                        <td class="autocomplete"><input type="text" id="FromLoc" name="From" required></td>
+                    </tr>
+                    <tr>
+                        <td><br></td>
+                    </tr>
+                    <tr>
+                        <td class="autocomplete"><h3 class="label">Destination</h3></td>
+                    </tr>
+                    <tr>
+                        <td class="autocomplete"><input type="text" id="ToLoc" name="To" required></td>
+                    </tr>
+                    <tr>
+                        <td><br></td>
+                    </tr>
+                    <tr>
+                        <td class="btn-td"><button type="submit">Route!</button></td>
+                    </tr>
+                </table>
+                
+            </form>
+        </div>
+        <div></div>
+    </div>
 </body>
 </html>

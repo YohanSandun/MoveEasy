@@ -228,7 +228,7 @@ nav .right .theme-toggler span.active {
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 
-    background-color: #ffffffee;
+    background-color: #ffffffaa;
     box-shadow: var(--box-shadow);
     border-radius: var(--border-radius-3);
     padding: var(--padding-1);

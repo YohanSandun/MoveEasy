@@ -240,9 +240,10 @@ nav .right .theme-toggler span.active {
 }
 
 input[type="text"] {
-    background-color: var(--color-light);
+    background-color: #00000055;
     padding: var(--padding-1);
     border-radius: var(--border-radius-2);
+    color: var(--color-white);
     width: 100%;
 }
 

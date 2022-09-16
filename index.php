@@ -29,8 +29,7 @@
         <div class="user-form">
             <h1>Find a Route</h1>
             <br>
-            <p>hello guys there is a <b>danger</b></p>
-            <p>hello guys there is a <strong>danger</strong></p>
+            
             <form action="route.php" method="post" autocomplete="off">
                 <table>
                     <tr>

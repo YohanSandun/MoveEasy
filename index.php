@@ -60,4 +60,20 @@
         <div></div>
     </div>
 </body>
+
+<script src="js/auto_complete.js"></script>
+<script>
+    fetch('api/bus_stops.php').then(
+        function (response) {
+            return response.json();
+    }).then(function (data) {
+        autocomplete(document.getElementById("FromLoc"), data);
+        autocomplete(document.getElementById("ToLoc"), data);
+        return true;
+    }).catch(function (err) {
+        console.warn('Something went wrong.', err);
+        return false;
+    });
+</script>
+
 </html>

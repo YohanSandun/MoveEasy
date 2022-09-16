@@ -10,6 +10,19 @@
     <title>MoveEasy</title>
 </head>
 <body class="bg1">
-    
+    <nav>
+        <div class="left">
+            <div class="brand">
+                <img src="images/logo.png" alt="Logo">
+                <h3>Move Easy</h3>
+            </div>
+        </div>
+        <div class="right">
+            <div class="theme-toggler">
+                <span class="material-symbols-sharp active">light_mode</span>
+                <span class="material-symbols-sharp">dark_mode</span>
+            </div>
+        </div>
+    </nav>
 </body>
 </html>

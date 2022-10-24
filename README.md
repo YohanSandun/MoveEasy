@@ -1,2 +1,2 @@
 # MoveEasy
-A bus route finding system
+A bus route finding system for Sri Lanka
